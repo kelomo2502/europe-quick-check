@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-## African Nations App
+## Europe-Quick-Check App
 
 > Europe-Quick-Check App  allows you to:
 
