@@ -19,14 +19,14 @@ const CountryData = () => {
       <Card className="country-data">
         <Card.Img variant="top" src={flags.png} />
         <Card.Body className="country-details">
-          <Card.Title className="color1">{`Country: ${name.common}`}</Card.Title>
-          <Card.Text className="color2">{`Population: ${population}`}</Card.Text>
-          <Card.Text className="color1">{`Capital City: ${capital[0]}`}</Card.Text>
-          <Card.Text className="color1">{`Landlocked: ${landlocked ? 'Yes' : 'No'}`}</Card.Text>
-          <Card.Text className="color1">{`Area(M2): ${area}`}</Card.Text>
-          <Card.Text className="color1">{`Status: ${status}`}</Card.Text>
-          <Card.Text className="color1">{`Languages: ${languages.eng}`}</Card.Text>
-          <Card.Text className="color1">{`Timezone: ${timezones}`}</Card.Text>
+          <Card.Title className="color1 light-pink">{`Country: ${name.common}`}</Card.Title>
+          <Card.Text className=" dark-pink">{`Population: ${population}`}</Card.Text>
+          <Card.Text className="color1 light-pink">{`Capital City: ${capital[0]}`}</Card.Text>
+          <Card.Text className="color1 dark-pink">{`Landlocked: ${landlocked ? 'Yes' : 'No'}`}</Card.Text>
+          <Card.Text className="color1 light-pink">{`Area(M2): ${area}`}</Card.Text>
+          <Card.Text className="color1 dark-pink">{`Status: ${status}`}</Card.Text>
+          <Card.Text className="color1 light-pink">{`Languages: ${languages.eng}`}</Card.Text>
+          <Card.Text className="color1 dark-pink">{`Timezone: ${timezones}`}</Card.Text>
         </Card.Body>
       </Card>
     </>

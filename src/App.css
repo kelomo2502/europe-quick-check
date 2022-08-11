@@ -60,12 +60,12 @@ a:hover {
   margin: 0;
   padding: 0;
   width: 100%;
-  height: 130px;
+  height: 120px;
 }
 
 .europe-image > img {
   width: 100%;
-  height: 130px;
+  height: 100px;
 }
 
 .europe-image::before {
@@ -76,8 +76,17 @@ a:hover {
   height: 130px;
 }
 
-.color1 {
+.light-pink {
   background-color: #dc4782 !important;
+  width: 100%;
+  font-size: 1.25rem;
+}
+.dark-pink {
+  background-color: #fc5193 !important;
+  font-size: 1.25rem;
+  width: 100% !important;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
 }
 
 .country-details {
@@ -91,7 +100,7 @@ a:hover {
 }
 
 .country-data {
-  height: 100vh;
+  height: auto;
   padding: 8px;
   background-color: #dc4782;
 }

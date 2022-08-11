@@ -13,7 +13,7 @@ const Country = ({ name, flags }) => (
       <Card className="card-container">
         <Link to={`/name/${name.common}`}>
           <FaRegArrowAltCircleRight
-            style={{ width: '10px', height: '10px' }}
+            style={{ width: '15px', height: '15px' }}
             className="arrow-right"
           />
           <Card.Body>

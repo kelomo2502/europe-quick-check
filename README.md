@@ -53,7 +53,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- I acknowledge Original design idea by Nelson Sakwa on Behance.
+- I acknowledge Original design idea by [Nelson Sakwa](https://www.behance.net/sakwadesignstudio)
 
 ## 📝 License
 
