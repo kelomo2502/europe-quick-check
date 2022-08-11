@@ -19,6 +19,20 @@ Feel free to check the [Live link](https://europe-quick-check.herokuapp.com/).
 ## Live Video
 [video link](https://drive.google.com/file/d/1iAn6DcECNdvFErQ5Kc5n7IdQFC_kB393/view?usp=sharing).
 
+## Getting Started
+
+To get a local copy up and running follow these simple example steps.
+- Open git bash on local computer
+- clone the repo with: 
+```
+git clone  <https://github.com/kelomo2502/europe-quick-check.git>
+```
+- run ```cd top-stocks``` to enter the project folder
+- run ```npm i``` to install all dependencies
+- run ```npm start``` to launch the application
+- run ```npm test``` to run the tests
+
+
 ## Author
 
 👤 **Oyewunmi Gbenga**
