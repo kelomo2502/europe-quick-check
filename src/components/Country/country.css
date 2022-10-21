@@ -1,0 +1,14 @@
+.card-container {
+  margin: 0;
+  border: 1px solid rgb(194, 108, 108);
+  background-color: #cf3874;
+  border-radius: 0;
+}
+
+.card-container:nth-child(odd) {
+  background: transparent;
+}
+
+img.card-img-top {
+  height: 7rem;
+}
